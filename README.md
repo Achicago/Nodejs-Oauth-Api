@@ -18,7 +18,7 @@ Run NODE_ENV={staging / production } to use either staging or production module
   - Hashing password, Using crypto Library
   - Creating and storing  new User to the disk in a '.json' file with the data.js Library
 
-  How to Use
+ # How to Use
 
 ```bash
 USE Postman or Any API Client of your choice
